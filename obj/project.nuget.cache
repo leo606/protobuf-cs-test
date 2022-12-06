@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5jQ9P2uIypOsUAWqqDHnu9TKyBAwbRsYLsBDSQ5yFp1LtM0So/n7sRax4cj5trsSeGXsG7FZggA20huyT8NxDA==",
+  "success": true,
+  "projectFilePath": "/home/leo/projects/protobuf/protobuf.csproj",
+  "expectedPackageFiles": [
+    "/home/leo/.nuget/packages/google.protobuf/3.21.10/google.protobuf.3.21.10.nupkg.sha512",
+    "/home/leo/.nuget/packages/grpc.tools/2.50.0/grpc.tools.2.50.0.nupkg.sha512"
+  ],
+  "logs": []
+}
