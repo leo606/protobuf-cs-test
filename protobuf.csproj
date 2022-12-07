@@ -19,5 +19,4 @@
     <Protobuf Include="protos/employee.proto"/>
   </ItemGroup>
 
-
 </Project>
