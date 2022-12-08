@@ -15,6 +15,10 @@ emp.BirthDate = Timestamp.FromDateTime(birthDate);
 emp.MaritalStatus = Employee.Types.MaritalStatus.Married;
 emp.PreviousEmployers.Add("company1");
 emp.PreviousEmployers.Add("company2");
+emp.Age = 9;
+emp.Relative.Add("father", "dad");
+emp.Relative.Add("mother", "mom");
+emp.Relative.Add("brother", "bro");
 
 using (var output = File.Create("emp.dat"))
 {
